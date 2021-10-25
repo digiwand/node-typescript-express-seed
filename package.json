@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ariellanvu/node-typescript-express-seed/issues"
   },
-  "homepage": "https://github.com/ariellanvu/node-typescript-express-seed#readme"
+  "homepage": "https://github.com/ariellanvu/node-typescript-express-seed#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
 }
