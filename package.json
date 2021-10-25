@@ -1,10 +1,9 @@
 {
   "name": "typescript-express-seed",
   "version": "1.0.0",
-  "description": "Starter node project with TypeScript and Express.js",
+  "description": "Starter Node application with TypeScript and Express.js",
   "main": "index.js",
   "scripts": {
-    "test": "test"
   },
   "repository": {
     "type": "git",
